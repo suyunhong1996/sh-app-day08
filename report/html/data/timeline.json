@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-C7J9AUC",
+    "children" : [ {
+      "name" : "4580-MainThread",
+      "children" : [ {
+        "name" : "test_img.Test_001.test_01",
+        "uid" : "a1a4fe8836d2b294",
+        "parentUid" : "bdcb9cc7c042d8a3c39ff38eea93af92",
+        "status" : "passed",
+        "time" : {
+          "start" : 1558777085268,
+          "stop" : 1558777085280,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bdcb9cc7c042d8a3c39ff38eea93af92"
+    } ],
+    "uid" : "87021086ca7dd7daf9380ce85f2be82e"
+  } ]
+}
